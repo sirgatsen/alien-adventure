@@ -5,4 +5,4 @@ So I recently found a backup hard drive with some old projects of mine when I wa
 
 I thought I would just share this project with the world to show where I am coming from and who knows somebody might find there's a thing or two to learn from this. This a Windows Forms Project done in C# with Visual Studio. <b>Unfortunately this was a very long time ago and the code is not well documented.</b>
 
-![Game Screenshot](https://imgur.com/m36hDbZ)
+![Screenshot](alien_treasure.png)
