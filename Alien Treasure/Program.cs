@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Alien_Treasure
+namespace Alien_Adventure
 {
     static class Program
     {

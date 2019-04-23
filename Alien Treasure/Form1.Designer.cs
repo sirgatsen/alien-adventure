@@ -1,4 +1,4 @@
-﻿namespace Alien_Treasure
+﻿namespace Alien_Adventure
 {
     partial class Form1
     {
@@ -35,7 +35,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
-            this.BackgroundImage = global::Alien_Treasure.Properties.Resources.background;
+            this.BackgroundImage = global::Alien_Adventure.Properties.Resources.background;
             this.ClientSize = new System.Drawing.Size(300, 400);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form1";
